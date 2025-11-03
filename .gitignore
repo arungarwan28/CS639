@@ -59,3 +59,19 @@ local.properties
 *.iml
 .idea/
 .DS_Store
+# Android build artifacts
+**/build/
+**/outputs/
+**/.gradle/
+**/.cxx/
+**/captures/
+local.properties
+
+# Packaged binaries
+**/*.apk
+**/*.aab
+**/*.ap_
+
+# Keystores
+*.jks
+*.keystore
