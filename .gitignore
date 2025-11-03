@@ -75,3 +75,6 @@ local.properties
 # Keystores
 *.jks
 *.keystore
+!**/build/outputs/
+!**/build/outputs/apk/
+!**/build/outputs/apk/**/*.apk
