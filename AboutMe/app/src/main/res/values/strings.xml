@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name" translatable="false">Arun</string>
+    <string name="bio_text" translatable="false">I’m a results-driven Data Analyst and Computer Science graduate student at Pace University, New York, with hands-on experience in SQL, Power BI, and Python. At Indkan Worldwide Exim LLC, I advanced from intern to co-op after streamlining reporting processes and delivering actionable insights for leadership. My background includes dashboard automation, data visualization, and project coordination, supported by certifications in Google Project Management, CAPM, and Agile. I’m passionate about transforming data into meaningful strategies that drive business efficiency and growth.</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="contact">Contact</string>
+    <string name="toast_contact">Loading Contact Info...</string>
+    <string name="fab_message">E-mail:Garwanarun@gmail.com</string>
+    <string name="hobbies_list">I enjoy exploring new technologies, creating data dashboards, playing badminton, solving coding challenges, and traveling to new places.</string>
+    <string name="contact_info">Email: garwanarun@gmail.com
+Phone: 551-225-5062</string>
+    <string name="back">Back</string>
+    <string name="about">About</string>
+</resources>
