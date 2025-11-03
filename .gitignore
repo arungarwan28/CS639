@@ -50,7 +50,6 @@ local.properties
 /.cxx/
 .DS_Store
 .DS_Store
-Race Tracker/
 # Android / Gradle / IDE
 .gradle/
 build/
@@ -78,3 +77,7 @@ local.properties
 !**/build/outputs/
 !**/build/outputs/apk/
 !**/build/outputs/apk/**/*.apk
+
+# allow Race Tracker
+!Race Tracker/
+!Race Tracker/**
