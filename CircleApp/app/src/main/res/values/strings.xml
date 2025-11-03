@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CircleApp</string>
+    <string name="enter_radius">Enter Radius</string>
+    <string name="result_area">Area: %1$s</string>
+    <string name="help">Help</string>
+    <string name="plus_one_radius">+1 Radius</string>
+    <string name="random_radius">Random Radius</string>
+    <string name="share">Share</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
+    <string name="more">More</string>
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="result_screen_title">Result</string>
+    <string name="radius_label_detailed">Radius: %1$.2f</string>
+    <string name="area_label_detailed">Area: %1$s</string>
+    <string name="formula">Formula: π × r²</string>
+    <string name="help_toast">Area = π × r². Enter a positive radius.</string>
+    <string name="invalid_radius_snackbar">Invalid radius. Please enter a positive number.</string>
+    <string name="share_no_result">Check out this cool circle calculator!</string>
+    <string name="about_dialog_title">About</string>
+    <string name="about_dialog_message">Computes the area of a circle (π × r²).</string>
+    <string name="share_via">Share via</string>
+    <string name="circle_icon_description">Circle Icon</string>
+    <string name="clear_input">Clear input</string>
+</resources>
