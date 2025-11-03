@@ -75,8 +75,6 @@ local.properties
 *.jks
 *.keystore
 !**/build/outputs/
-!**/build/outputs/apk/
-!**/build/outputs/apk/**/*.apk
 
 # allow Race Tracker
 !Race Tracker/
